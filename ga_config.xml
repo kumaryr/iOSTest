@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <!--  The following value should be replaced with correct property id. -->
-    <string name="ga_trackingId">Enter your GA Tracking ID</string>
-    <string name="ga_dispatchPeriod">1</string>
-    <string name="ga_logLevel">verbose</string>
-</resources>
